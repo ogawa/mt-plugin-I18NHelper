@@ -16,7 +16,5 @@ I18NHelper plugin provides MT::I18N block tags and modifiers.
 
 = See Also =
 
-http://code.as-is.net/public/wiki/I18NHelper
-
 --
 $Id$
